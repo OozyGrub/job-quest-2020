@@ -1,0 +1,3 @@
+type JokeDTO = {
+  name: string;
+};
