@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: #fde108;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 5rem;
+}
+
+input {
+  margin: 1rem;
+}
+
+.Joke-div {
+  width: 66vw;
+}
+
+label {
+  font-size: 1.5rem;
+}
